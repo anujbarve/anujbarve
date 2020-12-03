@@ -11,7 +11,7 @@
 
 ### My Github Stats
 
-<img alt="Anuj's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=anujbarve&show_icons=true&hide_border=false" />
+<img src="https://github-readme-stats.vercel.app/api?username=anujbarve&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f" width="100%"/>
 
 ### Connect with me:
 

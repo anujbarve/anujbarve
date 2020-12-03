@@ -1,12 +1,13 @@
 
 ## Hello there, I'm Anuj 👋
 
-## I'm a Student, Developer, 
+## I'm a Student, Developer And Marketing Manager!!
 
-- 🌱 I’m currently studing Computer Enginnering 
+- 🌱 I’m currently studying Computer Enginnering 
 - 👯 I’m looking forward to learn the fundamentals properly and implement those as soon as possible
 - 🥅 2021 Goals: Master Web Development and to make awesome native android apps
 - 🌏 Fun fact: I love to travel and explore new places
+- 🏢 Marketing Manager at AVS MDS
 
 ### My Github Stats
 

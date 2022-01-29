@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently studying Computer Engineering
 - 👯 I’m looking forward to learn the fundamentals properly and implement those as soon as possible
-- 🥅 2021 Goals: Master Web Development and to make awesome native android apps
+- 🥅 2022 Goals: Master Full Stack Web Development
 - 🌏 Fun fact: I love to travel and explore new places
 
 ### My Github Stats

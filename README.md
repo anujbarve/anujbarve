@@ -8,7 +8,7 @@
 
 ### My Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=anujbarve&show_icons=true&theme=radical" width="100%"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=anujbarve&show_icons=true&theme=radical" width="100%"/> -->
 
 ### Connect with me:
 

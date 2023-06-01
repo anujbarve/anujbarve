@@ -44,8 +44,8 @@
   <a href="https://www.youtube.com/channel/UCCGDiHOwXzOSMu8AOj60D2w"><img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt = "youtube" /></a>
 
 - <h4>Stats</h4>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anujbarve&theme=blue-green" height="250px"/>
-  <img src = "https://github-readme-stats.vercel.app/api?username=anujbarve&theme=blue-green" height="250px"/>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anujbarve&theme=blue-green" height="225px"/>
+  <img src = "https://github-readme-stats.vercel.app/api?username=anujbarve&theme=blue-green" height="225px"/>
   
   </div>
 

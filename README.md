@@ -1,8 +1,8 @@
   <h1 align = center > Hello There, Anuj Here</h1>
 
 <div>
-
-<img align="right" width="400" alt="Shimarin" src="https://mfiles.alphacoders.com/876/876549.png"/>
+<!-- 
+<img align="right" width="200" alt="Shimarin" src="https://mfiles.alphacoders.com/876/876549.png"/> -->
 
 <h2> / about me /</h2>
   

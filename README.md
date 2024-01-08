@@ -7,8 +7,8 @@
 <h2> / about me /</h2>
   
 - 🌱 I’m currently studying Computer Engineering
-- 👯 I’m looking forward to learn the fundamentals properly and implement those as soon as possible
-- 🥅 2023 Goals: Master Flutter
+- 👯 I’m looking forward to learning the fundamentals properly and implementing those as soon as possible
+- 🥅 2024 Goals: Master Flutter
 - 🌏 Fun fact: I love to travel and explore new places
   
 <h2> / current skills / </h2>

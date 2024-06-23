@@ -39,9 +39,9 @@
   
 - <h4> social media links </h4>
   <a href="https://www.instagram.com/anuj_barve/"> <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt = "instagram" /> </a>
-  <a href="https://in.linkedin.com/in/anuj-barve-838b9b162"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt = "linkedin" /></a>
+  <a href="https://www.linkedin.com/in/anuj-barve/"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt = "linkedin" /></a>
   <a href="https://twitter.com/BarveAnuj"><img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.youtube.com/channel/UCCGDiHOwXzOSMu8AOj60D2w"><img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt = "youtube" /></a>
+  <a href="https://www.youtube.com/@anujbarve"><img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt = "youtube" /></a>
 
 - <h4>Stats</h4>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anujbarve&theme=blue-green" height="225px"/>
